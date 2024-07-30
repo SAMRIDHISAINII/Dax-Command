@@ -1,5 +1,4 @@
 # Dax-Command
-# DAX-Commands-For-Power-BI
 
 ### Power BI
 
